@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Sarah Ramos",
+        "cpf": "00000014198",
+        "email": "testes@hotmail.com",
+        "whatsapp": "11123456789",
+        "address": {
+            "postalcode": "22770235",
+            "street": "Rua Professor Henrique Costa",
+            "number": "300",
+            "details": "apt 140",
+            "district": "Pechincha",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Maria eduarda",
+        "cpf": "000000141BR",
+        "email": "maria@hotmail.com",
+        "whatsapp": "11123456890",
+        "address": {
+            "postalcode": "22770235",
+            "street": "Rua Professor Henrique Costa",
+            "number": "300",
+            "details": "apt 420",
+            "district": "Pechincha",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Maria",
+        "cpf": "00000014198",
+        "email": "maria_teste@76589",
+        "whatsapp": "11123456890",
+        "address": {
+            "postalcode": "22770235",
+            "street": "Rua Professor Henrique Costa",
+            "number": "300",
+            "details": "apt 420",
+            "district": "Pechincha",
+            "city_state": "Rio de Janeiro/RJ"
+        },
+        "delivery_method": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
